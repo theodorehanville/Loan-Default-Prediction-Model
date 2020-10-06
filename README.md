@@ -4,6 +4,7 @@ In this model a machine learning model is built. This model predicts the likelyh
 # FIles
     Train bootcamp.csv - used to train and evaluate the model.
     Test bootcamp.csv - used to make predictions.
+    DSN_QUALIFICATION.ipynb - code
 
 # DATA INFO
     ====================Variables===================
