@@ -2,8 +2,8 @@
 In this model a machine learning model is built. This model predicts the likelyhood of customers to defaulting on ther loan, given certain parameters.
 
 # FIles
-    Train Bootcamp.csv - used to train and evaluate the model.
-    Test Bootcamp.csv - used to make predictions.
+    Train bootcamp.csv - used to train and evaluate the model.
+    Test bootcamp.csv - used to make predictions.
 
 # DATA INFO
     ====================Variables===================
