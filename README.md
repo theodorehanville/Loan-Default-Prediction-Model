@@ -1,5 +1,5 @@
 # Loan-Default-Prediction-Model
-In this model a machine learning model is built. This model predicts the likelyhood of customers to defaulting on ther loan, given certain parameters.
+In this model a machine learning model is built. This model predicts the likelyhood of customers defaulting on their loan, given certain features.
 
 # FIles
     Train bootcamp.csv - used to train and evaluate the model.
